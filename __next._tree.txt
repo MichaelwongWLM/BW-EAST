@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/03i_8gj.9gat5.css","style"]
+:HL["/_next/static/chunks/0jsr8tguldmru.css","style"]
 :HL["/assets/logo.png","image"]
 :HL["/assets/production-carrot.jpg","image",{"fetchPriority":"high"}]
 :HL["/assets/fresh/green-peppers.jpeg","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"FcycZXrU93KnTRksKRkb8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"IFnYTRcxTzQbi_4S1lG_R"}
